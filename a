@@ -1,0 +1,25 @@
+[33mab6dee4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Rainha
+[33m6ab76ff[m Cavalo
+[33m3ff92f3[m Bispo
+[33m64bf127[m Peao
+[33mfc988be[m Contagem de Pecas
+[33m0389c46[m Logica de Checkmate
+[33mbbde9d4[m Logica de Check
+[33m3854cc2[m Manuseio de peças capturadas
+[33mb76804d[m Trocando turno do jogador
+[33m0cd0360[m Implementando movimentos possiveis do rei
+[33mdbd450f[m Imprimindo possiveis movimentos
+[33m90334dc[m Implementando movimentos possiveis da torre
+[33m3bdb1f7[m Possiveis movimentos de algumas pecas
+[33m34e6fc7[m Tratamento de excecoes e tela de limpeza
+[33m1f683b7[m Movendo pecas
+[33md4f4ee6[m Mudanca na impressao do board
+[33m3a8ae4d[m ChessException and ChessPosition
+[33m22ab43a[m BoardException e programação defensiva
+[33m2dd6754[m Colocar pieces em board
+[33mbcbc5d7[m Camada Chess e impressao do board
+[33m472699f[m Criacao da class Pieces e class Board
+[33m8e65f76[m Criacao da class Position
+[33m02e821f[m Criacao da class Program
+[33me32b4d0[m Project created
+[33m0b5a303[m Initial commit
